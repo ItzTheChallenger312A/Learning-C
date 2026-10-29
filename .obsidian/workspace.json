@@ -190,6 +190,7 @@
   },
   "active": "6cf1df57e45b64fd",
   "lastOpenFiles": [
+    "codes/primenumber_with_whileordo.c",
     "codes/prime_list_fromn.c",
     "codes/check_prime.c",
     "codes/findvalue.c",
@@ -199,7 +200,6 @@
     "codes/totalof1_divide_n.c",
     "codes/totalof1_divide_n",
     "codes/total_of_1/n.c",
-    "codes/total_of_1",
-    "codes/totaln_advanced.c"
+    "codes/total_of_1"
   ]
 }
