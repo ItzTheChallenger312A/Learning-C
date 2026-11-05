@@ -20,8 +20,51 @@
               "icon": "lucide-file",
               "title": "Vòng lặp - Loops"
             }
+          },
+          {
+            "id": "3fc81d8e2022a698",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hàm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hàm"
+            }
+          },
+          {
+            "id": "c9d1c4cebeb7ee16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mảng (Arrays).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mảng (Arrays)"
+            }
+          },
+          {
+            "id": "cd934ed3dcc40d43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mảng (Arrays).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mảng (Arrays)"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,8 +231,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "6cf1df57e45b64fd",
+  "active": "cd934ed3dcc40d43",
   "lastOpenFiles": [
+    "Con trỏ (Pointer) và Quản lý bộ nhớ (Memory Allocation).md",
+    "Mảng (Arrays).md",
+    "Lệnh điều kiện - If-else và lệnh lồng if (nested if).md",
+    "Screenshot 2026-10-01 150033.png",
+    "Screenshot 2026-10-01 145828.png",
+    "Screenshot 2026-10-01 145228.png",
+    "Biến (Variables), Kiểu dữ liệu (Data Types) và Nhập xuất cơ bản (Input - Output).md",
+    "Pasted image 20261105132649.png",
+    "Hàm.md",
+    "Vòng lặp - Loops.md",
+    "Untitled",
     "codes/Nguyễn Đỗ Quang Minh.rar",
     "codes/251021005260/realquiz1.c",
     "codes/251021005260/realquiz2.c",
@@ -198,8 +252,6 @@
     "codes/251021005260/basiccomputer.c",
     "codes/251021005260/app.exe",
     "codes/251021005260",
-    "codes/Xây dựng máy tính cơ bản/app.exe",
-    "codes/Xây dựng máy tính cơ bản/realquiz2.exe",
-    "codes/Xây dựng máy tính cơ bản/realquiz1.exe"
+    "codes/Xây dựng máy tính cơ bản/app.exe"
   ]
 }

@@ -4,11 +4,16 @@ Cấu trúc rẽ nhánh giúp chương trình đưa ra quyết định và thự
 - **Cấu trúc điều kiện cơ bản:**
     
     - `if`: Kiểm tra điều kiện đầu tiên.
-        ![[Pasted image 20261001150219.png|424]]
+	    
+        ![[Screenshot 2026-10-01 145228.png]]
+    
     - `else if`: Kiểm tra các điều kiện tiếp theo nếu điều kiện trước đó Sai.
-        ![[Pasted image 20261001145831.png]]
+	    
+        ![[Screenshot 2026-10-01 145828.png]]
+    
     - `else`: Trường hợp còn lại (khi tất cả các điều kiện trên đều Sai).
-	    ![[Pasted image 20261001150105.png|425]]
+	    
+	    ![[Screenshot 2026-10-01 150033.png]]
 
 - **Lệnh `if` lồng nhau (Nested `if`):** Đặt một câu lệnh `if` (hoặc `if-else`) vào **bên trong** một khối lệnh `if` khác. Kỹ thuật này dùng khi một quyết định phụ phụ thuộc vào kết quả của một quyết định chính trước đó.
     
