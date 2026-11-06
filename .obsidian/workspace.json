@@ -233,6 +233,16 @@
   },
   "active": "cd934ed3dcc40d43",
   "lastOpenFiles": [
+    "codes/11052026/bai5.c",
+    "codes/11052026/bai4.c",
+    "codes/11052026/bai3.c",
+    "codes/11052026/bai2.c",
+    "codes/11052026/bai1.c",
+    "codes/11052026",
+    "codes/arrays.c",
+    "codes/input_numbers_with_array.exe",
+    "codes/input_numbers_with_array.c",
+    "codes/251021005260/input_numbers_with_array.c",
     "Con trỏ (Pointer) và Quản lý bộ nhớ (Memory Allocation).md",
     "Mảng (Arrays).md",
     "Lệnh điều kiện - If-else và lệnh lồng if (nested if).md",
@@ -243,15 +253,6 @@
     "Pasted image 20261105132649.png",
     "Hàm.md",
     "Vòng lặp - Loops.md",
-    "Untitled",
-    "codes/Nguyễn Đỗ Quang Minh.rar",
-    "codes/251021005260/realquiz1.c",
-    "codes/251021005260/realquiz2.c",
-    "codes/251021005260/total_qualified.c",
-    "codes/251021005260/find_numbers_ofLCD.c",
-    "codes/251021005260/basiccomputer.c",
-    "codes/251021005260/app.exe",
-    "codes/251021005260",
-    "codes/Xây dựng máy tính cơ bản/app.exe"
+    "Untitled"
   ]
 }
