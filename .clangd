@@ -1,3 +1,11 @@
+CompileFlags:
+  Add:
+    - "-D_CRT_SECURE_NO_WARNINGS"
+
 Diagnostics:
   UnusedIncludes: None
+  Suppress:
+    - "deprecated-declarations"
 
+Completion:
+  HeaderInsertion: Never
